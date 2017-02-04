@@ -39,7 +39,7 @@ mesecons_wires:::https://github.com/Jeija/minetest-mod-mesecons/zipball/master::
 craftguide:::https://github.com/minetest-mods/craftguide/archive/master.zip::::::0:::Minetest-Mods:::https://github.com/minetest-mods/craftguide/raw/master/screenshot.png:::A Crafting Guide for Minetest that doesn't suck.
 mobs:::https://github.com/PilzAdam/mobs/zipball/master::::::0:::PilzAdam::::::Adds mobs (currently two passive mobs, five hostile mobs).
 xtraores:::https://forum.minetest.net/download/file.php?id=7485:::xtraores:::0:::davidthecreator::::::Adds platinum, cobalt, osminum, adamantite, rarium, antracite, unobtanium, tatanium, geminium and marble blocks
-xtraores_armor:::https://forum.minetest.net/download/file.php?id=7485:::xtraores_armor:::0:::davidthecreator::::::This mod adds armore for the xtraores mod
+xtraores_armor:::https://forum.minetest.net/download/file.php?id=7485:::xtraores_armor:::0:::davidthecreator::::::This mod adds armor for the xtraores mod
 army:::https://forum.minetest.net/download/file.php?id=87::::::0:::davidthecreator::::::This mod adds barbed wire, sandbags, ration packs and airdrop crate
 moreblocks:::https://github.com/Calinou/moreblocks/archive/master.zip::::::0:::Calinou::::::This mod adds a lot of new blocks, most of them don't have a use other than decoration.
 pipeworks:::https://github.com/VanessaE/pipeworks/zipball/master::::::0:::VanessaE::::::This mod uses nodeboxes to supply a complete set of nicely-rounded flanged pipes, along with "valve" and "pump" devices for them, plus a set of boxy, clear pneumatic tubes
@@ -50,5 +50,3 @@ extranodes:::https://github.com/minetest-technic/technic/archive/master.zip:::ex
 technic_chests:::https://github.com/minetest-technic/technic/archive/master.zip:::technic_chests:::0:::RealBadAngel::::::Adds some technic stuff.
 technic_worldgen:::https://github.com/minetest-technic/technic/archive/master.zip:::technic_worldgen:::0:::RealBadAngel::::::Adds some technic stuff.
 wrench:::https://github.com/minetest-technic/technic/archive/master.zip:::wrench:::0:::RealBadAngel::::::Adds some technic stuff.
-
-
