@@ -56,3 +56,11 @@ wardrobe:::https://github.com/prestidigitator/minetest-mod-wardrobe/archive/1.1.
 turtleminer:::https://github.com/BiLachner/TurtleMiner/archive/master.zip::::::0:::BiLachner, octacian:::https://forum.minetest.net/download/file.php?id=7781:::Adds usable and soon programmable turtles.
 irc:::https://github.com/kaeza/minetest-irc/archive/master.zip::::::0:::kaeza, ShadowNinja::::::Connects game chat to an arbitrary IRC channel.
 irc_commands:::https://github.com/ShadowNinja/minetest-irc_commands/archive/master.zip::::::0:::ShadowNinja::::::This is a mod that allows you to run any command on a server over IRC using the IRC mod.
+nature:::https://bitbucket.org/neko259/nature/get/ab8fee8f9570.zip::::::0:::neko259:::http://storage3.static.itmages.ru/i/12/0415/s_1334510902_6434416_b7ab6295c2.jpeg:::Adds growing flowers, junglegrass, bushes, cacti, papyrus. Cobble turns into moss.
+farming_plus:::https://github.com/PilzAdam/farming_plus/zipball/master::::::0:::PilzAdam::::::Extents the default farming.
+item_drop:::https://github.com/PilzAdam/item_drop/zipball/master::::::0:::PilzAdam::::::I have made a mod that adds Minecraft like item drop/pick up to Minetest.
+vines:::https://github.com/bas080/vines/zipball/master::::::0:::Bas080:::https://raw.githubusercontent.com/bas080/vines/forum/screenshot.png:::Now with the new vines mod you can just climb your way out of it.
+trees:::https://github.com/bas080/trees/zipball/master::::::0:::Bas080:::https://dl.dropboxusercontent.com/u/419967/Screenshots/Screenshot - 05012013 - 01:29:46 PM.png:::Bigger trees but smaller than moretrees trees
+biome_lib:::https://github.com/VanessaE/biome_lib/archive/master.zip::::::1:::VanessaE::::::This library's purpose is to allow other mods to add growing things to the map in a straightforward, simple manner.
+moretrees:::https://github.com/VanessaE/moretrees/archive/master.zip::::::0:::VanessaE::::::This mod adds many new types of trees to the game.
+plantlife_modpack:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip::::::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
