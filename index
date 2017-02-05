@@ -42,7 +42,7 @@ xtraores:::https://forum.minetest.net/download/file.php?id=7485:::xtraores:::0::
 xtraores_armor:::https://forum.minetest.net/download/file.php?id=7485:::xtraores_armor:::0:::davidthecreator::::::This mod adds armor for the xtraores mod
 army:::https://forum.minetest.net/download/file.php?id=87::::::0:::davidthecreator::::::This mod adds barbed wire, sandbags, ration packs and airdrop crate
 moreblocks:::https://github.com/Calinou/moreblocks/archive/master.zip::::::0:::Calinou::::::This mod adds a lot of new blocks, most of them don't have a use other than decoration.
-pipeworks:::https://github.com/VanessaE/pipeworks/zipball/master:::https://raw.githubusercontent.com/wiki/minetest-mods/pipeworks/images/Pipeworks.png:::0:::VanessaE::::::This mod uses nodeboxes to supply a complete set of nicely-rounded flanged pipes, along with "valve" and "pump" devices for them, plus a set of boxy, clear pneumatic tubes
+pipeworks:::https://github.com/VanessaE/pipeworks/zipball/master:::https://github.com/minetest-mods/pipeworks/wiki/images/Pipeworks.png:::0:::VanessaE::::::This mod uses nodeboxes to supply a complete set of nicely-rounded flanged pipes, along with "valve" and "pump" devices for them, plus a set of boxy, clear pneumatic tubes
 moreores:::https://github.com/Calinou/moreores/archive/master.zip::::::0:::Calinou::::::This mod adds copper, tin, silver and gold in Minetest. This mod also adds three new sets of tools and swords.
 technic:::https://github.com/minetest-technic/technic/archive/master.zip:::technic:::0:::RealBadAngel::::::Adds some technic stuff.
 concrete:::https://github.com/minetest-technic/technic/archive/master.zip:::concrete:::0:::RealBadAngel::::::Adds some technic stuff.
