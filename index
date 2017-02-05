@@ -193,3 +193,4 @@ tutor:::https://github.com/minetest-mods/tutor/archive/master.zip::::::0:::minet
 chat2:::https://github.com/minetest-mods/chat2/archive/master.zip::::::0:::minetest-mods::::::Complements game built-in chat or replaces it.
 city_block:::https://github.com/minetest-mods/city_block/archive/master.zip::::::0:::minetest-mods::::::Marks territorry as "city", where bucket usage and fighting is discouraged.
 spawn_command:::https://github.com/minetest-mods/spawn_command/archive/master.zip::::::0:::minetest-mods::::::Simple mod for /spawn command
+vector_extras:::https://github.com/HybridDog/vector_extras/archive/master.zip::::::1:::HybridDog::::::more vector helpers for mt
