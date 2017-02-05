@@ -55,3 +55,4 @@ jumping:::https://github.com/Jeija/minetest-mod-jumping/zipball/master:::http://
 wardrobe:::https://github.com/prestidigitator/minetest-mod-wardrobe/archive/1.1.zip::::::0:::prestidigitator:::https://raw.githubusercontent.com/prestidigitator/minetest-mod-wardrobe/master/doc/screenshots/craftRecipe.png:::This mod provides a very simple way to change the skin on the default charcater mesh.
 turtleminer:::https://github.com/BiLachner/TurtleMiner/archive/master.zip::::::0:::BiLachner, octacian:::https://forum.minetest.net/download/file.php?id=7781:::Adds usable and soon programmable turtles.
 irc:::https://github.com/kaeza/minetest-irc/archive/master.zip::::::0:::kaeza, ShadowNinja::::::Connects game chat to an arbitrary IRC channel.
+irc_commands:::https://github.com/ShadowNinja/minetest-irc_commands/archive/master.zip::::::0:::ShadowNinja::::::This is a mod that allows you to run any command on a server over IRC using the IRC mod.
