@@ -54,16 +54,12 @@ industrial:::https://github.com/TheZenKitteh/minetest-industrial/archive/master.
 jumping:::https://github.com/Jeija/minetest-mod-jumping/zipball/master::::::0:::Jeija:::http://i.imgur.com/qGFAF.png:::Jumping adds trampolines and cushions to minetest.
 wardrobe:::https://github.com/prestidigitator/minetest-mod-wardrobe/archive/1.1.zip::::::0:::prestidigitator:::https://raw.githubusercontent.com/prestidigitator/minetest-mod-wardrobe/master/doc/screenshots/craftRecipe.png:::This mod provides a very simple way to change the skin on the default charcater mesh.
 turtleminer:::https://github.com/BiLachner/TurtleMiner/archive/master.zip::::::0:::BiLachner, octacian:::https://forum.minetest.net/download/file.php?id=7781:::Adds usable and soon programmable turtles.
-irc:::https://github.com/kaeza/minetest-irc/archive/master.zip::::::0:::kaeza, ShadowNinja::::::Connects game chat to an arbitrary IRC channel.
-irc_commands:::https://github.com/ShadowNinja/minetest-irc_commands/archive/master.zip::::::0:::ShadowNinja::::::This is a mod that allows you to run any command on a server over IRC using the IRC mod.
 nature:::https://bitbucket.org/neko259/nature/get/ab8fee8f9570.zip::::::0:::neko259:::http://storage3.static.itmages.ru/i/12/0415/s_1334510902_6434416_b7ab6295c2.jpeg:::Adds growing flowers, junglegrass, bushes, cacti, papyrus. Cobble turns into moss.
 farming_plus:::https://github.com/PilzAdam/farming_plus/zipball/master::::::0:::PilzAdam::::::Extents the default farming.
 item_drop:::https://github.com/PilzAdam/item_drop/zipball/master::::::0:::PilzAdam::::::I have made a mod that adds Minecraft like item drop/pick up to Minetest.
-vines:::https://github.com/bas080/vines/zipball/master::::::0:::Bas080:::https://raw.githubusercontent.com/bas080/vines/forum/screenshot.png:::Now with the new vines mod you can just climb your way out of it.
 trees:::https://github.com/bas080/trees/zipball/master::::::0:::Bas080:::https://dl.dropboxusercontent.com/u/419967/Screenshots/Screenshot - 05012013 - 01:29:46 PM.png:::Bigger trees but smaller than moretrees trees
 biome_lib:::https://github.com/VanessaE/biome_lib/archive/master.zip::::::1:::VanessaE::::::This library's purpose is to allow other mods to add growing things to the map in a straightforward, simple manner.
 moretrees:::https://github.com/VanessaE/moretrees/archive/master.zip::::::0:::VanessaE::::::This mod adds many new types of trees to the game.
-plantlife_modpack:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip::::::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
 unified_inventory:::https://github.com/minetest-technic/unified_inventory/archive/master.zip::::::0:::RealBadAngel::::::Complete overhaul of player's inventory
 wieldview:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::wieldview:::0:::stu:::http://i.imgur.com/sfbftDj.png:::Adds armor.
 3d_armor:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::3d_armor:::0:::stu:::http://i.imgur.com/sfbftDj.png:::Adds armor.
@@ -71,3 +67,19 @@ shields:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::s
 technic_armor:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::technic_armor:::0:::stu:::http://i.imgur.com/sfbftDj.png:::Adds armor.
 hazmat_suit:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::hazmat_suit:::0:::stu:::http://i.imgur.com/sfbftDj.png:::Adds armor.
 3d_armor_stand:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::3d_armor_stand:::0:::stu:::http://i.imgur.com/sfbftDj.png:::Adds armor.
+3dmushrooms:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::3dmushrooms:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+along_shore:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::along_shore:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+bushes:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::bushes:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+bushes_classic:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::bushes_classic:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+cavestuff:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::cavestuff:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+dryplants:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::dryplants:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+ferns:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::ferns:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+flowers_plus:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::flowers_plus:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+junglegrass:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::junglegrass:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+molehills:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::molehills:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+nature_classic:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::nature_classic:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+poisonivy:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::poisonivy:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+trunks:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::trunks:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+vines:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::vines:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+woodsoils:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::woodsoils:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+youngtrees:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip:::youngtrees:::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
