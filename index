@@ -64,3 +64,10 @@ trees:::https://github.com/bas080/trees/zipball/master::::::0:::Bas080:::https:/
 biome_lib:::https://github.com/VanessaE/biome_lib/archive/master.zip::::::1:::VanessaE::::::This library's purpose is to allow other mods to add growing things to the map in a straightforward, simple manner.
 moretrees:::https://github.com/VanessaE/moretrees/archive/master.zip::::::0:::VanessaE::::::This mod adds many new types of trees to the game.
 plantlife_modpack:::https://github.com/VanessaE/plantlife_modpack/archive/master.zip::::::0:::VanessaE::::::This modpack supplies my Flowers-Plus and Poison Ivy mods, rewritten from scratch to use biome_lib.
+unified_inventory:::https://github.com/minetest-technic/unified_inventory/archive/master.zip::::::0:::RealBadAngel::::::Complete overhaul of player's inventory
+wieldview:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::wieldview:::0:::stu:::http://i.imgur.com/sfbftDj.png:::Adds armor.
+3d_armor:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::3d_armor:::0:::stu:::http://i.imgur.com/sfbftDj.png:::Adds armor.
+shields:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::shields:::0:::stu:::http://i.imgur.com/sfbftDj.png:::Adds armor.
+technic_armor:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::technic_armor:::0:::stu:::http://i.imgur.com/sfbftDj.png:::Adds armor.
+hazmat_suit:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::hazmat_suit:::0:::stu:::http://i.imgur.com/sfbftDj.png:::Adds armor.
+3d_armor_stand:::https://github.com/stujones11/minetest-3d_armor/archive/master.zip:::3d_armor_stand:::0:::stu:::http://i.imgur.com/sfbftDj.png:::Adds armor.
