@@ -50,3 +50,6 @@ extranodes:::https://github.com/minetest-technic/technic/archive/master.zip:::ex
 technic_chests:::https://github.com/minetest-technic/technic/archive/master.zip:::technic_chests:::0:::RealBadAngel::::::Adds some technic stuff.
 technic_worldgen:::https://github.com/minetest-technic/technic/archive/master.zip:::technic_worldgen:::0:::RealBadAngel::::::Adds some technic stuff.
 wrench:::https://github.com/minetest-technic/technic/archive/master.zip:::wrench:::0:::RealBadAngel::::::Adds some technic stuff.
+industrial:::https://github.com/TheZenKitteh/minetest-industrial/archive/master.zip::::::0:::RAPHAEL::::::Crates, safes, asphalt, signs, concrete, ...
+jumping:::https://github.com/Jeija/minetest-mod-jumping/zipball/master:::http://i.imgur.com/qGFAF.png:::0:::Jeija::::::Jumping adds trampolines and cushions to minetest.
+wardrobe:::https://github.com/prestidigitator/minetest-mod-wardrobe/archive/1.1.zip::::::0:::prestidigitator:::https://raw.githubusercontent.com/prestidigitator/minetest-mod-wardrobe/master/doc/screenshots/craftRecipe.png:::This mod provides a very simple way to change the skin on the default charcater mesh.
